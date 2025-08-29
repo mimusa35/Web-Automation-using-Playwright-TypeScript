@@ -1,5 +1,5 @@
 # Playwright_TypeScript_Automation
-A Playwright project for automating web application testing using TyoeScript. This repository includes setup instructions, example test scripts, and commands for executing automated browser-based tests efficiently.
+A Playwright project for automating web application testing using TyoeScript. This repository includes setup instructions, example test scripts, and commands for executing automated browser-based tests efficiently. Automation testing can save time and is best for running headless browser tests (Firefox, Chrome), producing results faster.
 
 # Project Overview
 This repository demonstrates how to use Playwright with TyoeScript for testing web applications. It provides a step-by-step guide to installation, setup, writing tests, using the Playwright test generator (CodeGen), and executing tests.
